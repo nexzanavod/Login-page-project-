@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[USERNAME] VARCHAR(50) NULL , 
+    [PASSWORD] VARCHAR(50) NULL 
+)
